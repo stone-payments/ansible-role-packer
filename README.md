@@ -37,4 +37,4 @@ See `./defaults/main.yml` for configurable variables and their defaults
 
 ## Add as a submodule to your playbook repo
 
-    git submodule add https://github.com/bramford/ansible-role-packer.git roles/packer
+    git submodule add https://github.com/{{username}}/{{repository}}.git roles/packer

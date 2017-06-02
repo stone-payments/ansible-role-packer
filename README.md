@@ -31,7 +31,7 @@ See `./defaults/main.yml` for configurable variables and their defaults
       hosts: all
       roles:
         - { packer,
-            packer_version: 0.10.2,
+            packer_version: 1.0.0,
             packer_install_directory: "/opt/packer"
           }
 

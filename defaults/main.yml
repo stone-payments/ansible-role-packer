@@ -1,3 +1,3 @@
 ---
 packer_install_directory: "/usr/local/sbin"
-packer_version: 0.12.2
+packer_version: 1.0.0

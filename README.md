@@ -11,6 +11,7 @@ Ansible role that installs packer from releases.hashicorp.com
 ## Requirements
 
 - Ansible 2.1+
+- Make sure that the "packer_install_directory" are in your environment path.
 
 ## Role Variables
 
